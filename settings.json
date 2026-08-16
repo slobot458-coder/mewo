@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LapataZX.aternos.me",
-    "port": 32845,
+    "ip": "FlowSMP_Real.aternos.me",
+    "port": 19998,
     "version": "",
     "try-creative": false
   },
