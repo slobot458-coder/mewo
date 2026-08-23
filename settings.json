@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FlowSMP_Real.aternos.me",
-    "port": 19998,
+    "ip": "loyalsmpcrafting.aternos.me",
+    "port": 64740,
     "version": "",
     "try-creative": false
   },
