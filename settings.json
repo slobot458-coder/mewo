@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "loyalsmpcrafting.aternos.me",
-    "port": 64740,
+    "ip": "LoyalSMPs-1.aternos.me",
+    "port": 38085,
     "version": "",
     "try-creative": false
   },
