@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LoyalSMPs-1.aternos.me",
-    "port": 38085,
+    "ip": "crazymc-sk.aternos.me",
+    "port": 36866,
     "version": "",
     "try-creative": false
   },
